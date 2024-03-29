@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dconsole
+dconsole.so
+dconsole.dylib
+dconsole.dll
+dconsole.a
+dconsole.lib
+dconsole-test-*
+*.exe
+*.o
+*.obj
+*.lst
